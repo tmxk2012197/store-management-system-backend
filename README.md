@@ -5,5 +5,6 @@ This application will be a simple CRUD application that has the following featur
   c.	Update an existing store selected from the list.   
   d.	Delete a store from the list after providing a confirmation dialog.   
 
-This is the backend part of store management system implemented with Spring Boot. For the front end part, please check
+This is the backend part of store management system implemented with Spring Boot. For the front end part, please check  
+https://github.com/tmxk2012197/store-management-system-frontend
 
