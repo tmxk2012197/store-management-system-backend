@@ -1,5 +1,5 @@
 # store-management-system-backend
-This application will be a simple CRUD application that has the following features: 
+This application will be a simple CRUD application that has the following features:   
   a.	Launch the application and be presented with a list of stores (no paging is necessary).  
   b.	Insert a new store.    
   c.	Update an existing store selected from the list.   
